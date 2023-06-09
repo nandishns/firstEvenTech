@@ -263,10 +263,11 @@ const About = () => {
         </div>
         <div className="section">
           <Form />
+          <div className="foot">
+            <Footer />
+          </div>
         </div>
-        {/* <div className="foot border border-red-500">
-          <Footer />
-        </div> */}
+       
       </div>
     </div>
   );

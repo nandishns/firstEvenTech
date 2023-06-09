@@ -14,7 +14,7 @@ const Footer = () => {
       <div
         className="
      h-[400px]
-    
+     mb-[100px]
       
     
         "
@@ -112,7 +112,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://youtu.be/JsYEV9Vo3hI">
+                <a href="https://www.youtube.com/@FIRSTEVENTS">
                   <i className="fa-brands  mr-[10px] fa-youtube fa-xl"></i>
                 </a>
               </li>

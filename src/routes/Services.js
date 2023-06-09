@@ -206,6 +206,9 @@ We specialize in creating augmented reality content for a range of applications,
         </div>
         <div className="section ">
           <Form />
+          <div className="foot">
+            <Footer />
+          </div>
         </div>
       </div>
     </div>

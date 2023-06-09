@@ -133,7 +133,7 @@ const Slider_left = (props) => {
               px-[60px]  font-[900] text-white    text-left  "
               animate={animation_t}
             >
-              <h1 className="  text-slate-50 text-[30px] font-[900]">
+              <h1 className="  text-slate-50 text-[25px] font-[900]">
                 <i class="fa-sharp fa-solid fa-plus " id="plus">
                   {" "}
                 </i>
@@ -278,7 +278,7 @@ const Slider_right = (props) => {
               animate={animation_t}
             >
               <div>
-                <h1 className="text-slate-50 text-[30px] font-black">
+                <h1 className="text-slate-50 text-[25px] font-black">
                   <i class="fa-sharp fa-solid fa-plus " id="plus">
                     {" "}
                   </i>

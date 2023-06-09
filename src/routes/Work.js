@@ -148,6 +148,9 @@ const Work = () => {
       </div>
       <div className="section">
         <Form />
+        <div className="foot">
+            <Footer />
+          </div>
       </div>
     </div>
   );

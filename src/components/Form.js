@@ -23,7 +23,7 @@ const Form = () => {
 
       const data = {
         name: name,
-        email: email
+        email: email,
       };
       addDoc(dbRef, data)
         .then((docRef) => {
@@ -43,7 +43,7 @@ const Form = () => {
   return (
     <>
       <div
-        className="relative bg-black block  h-full 
+        className="relative bg-black block 
 
       flex flex-col justify-end
       
@@ -52,7 +52,7 @@ const Form = () => {
       >
         <div
           className="
-        h-[1000px]
+        h-[400px]
        
        "
         >
@@ -62,7 +62,7 @@ const Form = () => {
             transition={{ delay: 0.8, type: "spring" }}
             className=" 
            
-            absolute w-full top-[280px] h-60  flex justify-center  
+            absolute w-full top-[280px] h-20  flex justify-center  
           "
           >
             <div
@@ -119,10 +119,10 @@ const Form = () => {
                 <motion.button
                   className="fill
                  w-30 ml-30 text-white z-3
-                 mt-[30px]
+                 mt-[30px] 
                  "
                   whileHover={{
-                    backgroundColor: "#FFFFFF"
+                    backgroundColor: "#FFFFFF",
                   }}
                   onClick={handleSubmit}
                 >
@@ -132,16 +132,7 @@ const Form = () => {
             </div>
           </motion.div>
         </div>
-        <div
-          className="
-      
-         
-        bafta
-        
-        "
-        >
-          <Footer />
-        </div>
+    
       </div>
     </>
   );

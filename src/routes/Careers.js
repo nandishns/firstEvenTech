@@ -150,11 +150,12 @@ const Contacts = () => {
           </div>
           <div className="section">
             <Form />
+            <div className="foot">
+            <Footer />
+          </div>
           </div>
 
-          {/* <div className="foot ">
-            <Footer />
-          </div> */}
+         
         </div>
       </div>
     </div>

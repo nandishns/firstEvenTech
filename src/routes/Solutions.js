@@ -45,8 +45,8 @@ const Solutions = () => {
           <div className="section h-screen w-screen">
             <Slider_left
               title="Boulevard World - KSA/Riyadh
-              Experiences Delivered:
-              Interactive Projection Mapping for Mega Structure:<br/>
+              Experiences Delivered: <br/>
+              Interactive Projection Mapping for Mega Structure:
             "
               img={brand}
               content="
@@ -64,14 +64,14 @@ const Solutions = () => {
             the United States.
             
             <br/><br/>
-            Boulevard World is an entertainment zone and 
-recreational complex located in Riyadh, Saudi Arabia. 
-Boulevard World aims to provide a unique experience 
-for families and individuals who enjoy traveling, 
-exploring, and playing. It showcases the rich cultural 
-diversity of various countries, with ten specially 
-designed areas representing Asia, Africa, Europe, and 
-the United States.
+            This entertainment zone allows visitors to embark on a 
+journey around the world without leaving Saudi Arabia. It 
+features nine different countries within its premises, 
+each offering a unique cultural experience. From 
+immersive cultural displays to theme park rides, 
+Boulevard World aims to create an enjoyable and 
+educational experience for visitors.
+
 
             "
             />
@@ -79,26 +79,26 @@ the United States.
           <div className="section h-screen w-screen">
             <Slider_right
               title="   AYA Universe - Wafi Mall, Dubai, UAE
-              Experiences Delivered:
-              Audio Lighting Programming
+              Experiences Delivered: <br/>
+              Audio Lighting Programming <br/>
 Video Projectors Configuration
               "
               img={sust}
               content="
             <br/>
          
-<strong><strong>
 AYA Universe is an immersive entertainment park 
 located within Wafi City Mall in Dubai, United Arab 
 Emirates. This unique park combines art and 
 state-of-the-art technology to create a captivating 
-journey through 12 fully immersive zones. 
+journey through 12 fully immersive zones. <br/> <br/>
 AYA Universe offers a range of experiences that allow 
 visitors to explore different themes and engage with 
 their surroundings. From creating motion and sensing 
 momentum to wandering through meadows adorned 
 with blooming lights and dancing with galaxies, there is 
-something for everyone to enjoy
+something for everyone to enjoy 
+
          
 
             "
@@ -122,15 +122,15 @@ something for everyone to enjoy
           <div className="section h-screen w-screen">
             <Slider_left
               title="
-              Expo 2020 - Dubai, UAE
-Experiences Delivered:
-Installation of AV Interactive Sensors
-LED Screen Configurations
-Audio Video Lighting - India Pavilion
+              Expo 2020 - Dubai, UAE <br/>
+Experiences Delivered: <br/>
+Installation of AV Interactive Sensors <br/>
+LED Screen Configurations <br/>
+Audio Video Lighting - India Pavilion <br/>
                "
               img={exp}
               content="
-            <br/><br/>
+            <br/>
             Expo 2020 Dubai aimed to bring together countries from 
 around the world to share ideas, showcase innovation, 
 and promote collaboration.
