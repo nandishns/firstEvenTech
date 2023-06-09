@@ -177,7 +177,7 @@ const About = () => {
                     department, including design, development, and project
                     management. This allows us to deliver exquisite experiences
                     with cutting-edge solutions to our clients in a timely and
-                    efficient manner. We have expertise in various fields, such
+                    efficient manner. We have expertise in various fields, such
                     as experiential solutions,
                     <br />
                     +&nbsp;&nbsp; 3D & 2D Projection Mapping

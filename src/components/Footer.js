@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { TextField } from "@mui/material";
 import styled from "styled-components";
 import logo from "../assests/logo.svg";
-
+import { Link } from "react-router-dom";
 import "./Footer.css";
 import { useNavigate } from "react-router-dom";
 
@@ -46,14 +46,14 @@ const Footer = () => {
               <li className="font-bold mb-[10px]">General </li>
 
               <li>
-                <a href="/about">About</a>
+                <Link to="/about">About</Link>
               </li>
 
               <li>
-                <a href="/careers">Careers</a>
+                <Link to="/careers">Careers</Link>
               </li>
               <li>
-                <a href="/contacts">Contact</a>
+                <Link to="/contacts">Contact</Link>
               </li>
             </ul>
             <ul>
@@ -66,72 +66,74 @@ const Footer = () => {
                 Services{" "}
               </li>
               <li>
-                <a href="/services">Augmented Reality</a>
+                <Link to="/services">Augmented Reality</Link>
               </li>
               <li>
-                <a href="/services">Virtual Reality</a>
+                <Link to="/services">Virtual Reality</Link>
               </li>
               <li>
-                <a href="/services">Holography</a>
+                <Link to="/services">Holography</Link>
               </li>
               <li>
-                <a href="/services">Phygital</a>
+                <Link to="/services">Phygital</Link>
               </li>
               <li>
-                <a href="/services">Films</a>
+                <Link to="/services">Films</Link>
               </li>
               <li>
-                <a href="/services">Apps</a>
+                <Link to="/services">Apps</Link>
               </li>
             </ul>
             <ul>
               <li className="font-bold mb-[10px]"> Spatial </li>
               <li>
-                <a href="/solutions">Brand and Customer</a>
+                <Link to="/solutions">Brand and Customer</Link>
               </li>
               <li>
-                <a href="/solutions">Events</a>
+                <Link to="/solutions">Events</Link>
               </li>
               <li>
-                <a href="/solutions">Training</a>
+                <Link to="/solutions">Training</Link>
               </li>
               <li>
-                <a href="/solutions">Data Visualization</a>
+                <Link to="/solutions">Data Visualization</Link>
               </li>
               <li>
-                <a href="/solutions">Content Creation</a>
+                <Link to="/solutions">Content Creation</Link>
               </li>
               <li>
-                <a href="/solutions">Solutions</a>
+                <Link to="/solutions">Solutions</Link>
               </li>
             </ul>
-            <ul className="flex mt-[10px]">
+<div className="socialIcons">
+<ul className="flex mt-[10px] ">
               <li>
-                <a href="https://www.facebook.com/people/First-Events/100092501437594/">
+                <a href="https://www.facebook.com/people/First-Events/100092501437594/" target="_blank">
                   <i className="fa-brands mr-[10px] fa-facebook fa-xl "></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.youtube.com/@FIRSTEVENTS">
+                <a href="https://www.youtube.com/@FIRSTEVENTS" target="_blank">
                   <i className="fa-brands  mr-[10px] fa-youtube fa-xl"></i>
                 </a>
               </li>
               <li>
-                <a href="https://twitter.com/firsteventstech">
+                <a href="https://twitter.com/firsteventstech" target="_blank">
                   <i className="fa-brands mr-[10px] fa-twitter fa-xl"></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/company/firsteventstech/">
+                <a href="https://www.linkedin.com/company/firsteventstech/" target="_blank">
                   <i class="fa-brands fa-linkedin mr-[10px] fa-xl"></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/firsteventech/">
+                <a href="https://www.instagram.com/firsteventech/"target="_blank">
                   <i class="fa-brands  fa-square-instagram  ml-[10px] fa-xl"></i>
                 </a>
               </li>
             </ul>
+</div>
           </div>
         </div>
       </div>

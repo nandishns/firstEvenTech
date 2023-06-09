@@ -125,7 +125,7 @@ We specialize in creating augmented reality content for a range of applications,
               img={ia_01}
               content="
             <br/><br/>
-            we specialize in crafting interactive applications that allow users to engage with content through a variety of modes. We create content that can be accessed through touch, gesture, motion, and voice, providing users with an immersive and engaging experience.
+            We specialize in crafting interactive applications that allow users to engage with content through a variety of modes. We create content that can be accessed through touch, gesture, motion, and voice, providing users with an immersive and engaging experience.
 
             <br/><br/>
             Our interactive applications take many forms, including touch tables, interactive walls, object recognition tables, and large displays controlled using iPads or other devices. Our goal is to help you tell your brand story effectively and captivate your audience with engaging, interactive experiences.

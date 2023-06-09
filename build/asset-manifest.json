@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11f6fa1e.css",
+    "main.js": "/static/js/main.185a8eac.js",
+    "static/media/deep.jpg": "/static/media/deep.eaebf6bc68983f696c30.jpg",
+    "static/media/ocean.jpg": "/static/media/ocean.b23c0a397cf93c36affa.jpg",
+    "static/media/smoke.jpg": "/static/media/smoke.4e9729797f21d8a16d5f.jpg",
+    "static/media/marbel.jpg": "/static/media/marbel.657bbaa6279174d9cd85.jpg",
+    "static/media/fluid.png": "/static/media/fluid.c689e2fce9b77028323f.png",
+    "static/media/circle.jpg": "/static/media/circle.fff957d640c5ee56d75c.jpg",
+    "static/media/films.jpg": "/static/media/films.45f620882864840514d0.jpg",
+    "static/media/finalbg.jpg": "/static/media/finalbg.dd75d948da4dd8702c78.jpg",
+    "static/media/1080.jpg": "/static/media/1080.5906f4ac986ac68ca646.jpg",
+    "static/media/Exp.png": "/static/media/Exp.43b109b11f526eda5ae4.png",
+    "static/media/ia_01.jpg": "/static/media/ia_01.9e974820d52609d897bf.jpg",
+    "static/media/projection.png": "/static/media/projection.ebed28ec11d4eead8ac7.png",
+    "static/media/sustainability-01.png": "/static/media/sustainability-01.1ed5c676a67303710c39.png",
+    "static/media/brand_eng.png": "/static/media/brand_eng.b8d0a89199c5a5531ac4.png",
+    "static/media/aug_real.png": "/static/media/aug_real.3680b2ea3334a3514fa3.png",
+    "static/media/vr_01.jpg": "/static/media/vr_01.ddf95fd1a89cf51182a1.jpg",
+    "static/media/ori.jpg": "/static/media/ori.e69ef6deff58afc86e8f.jpg",
+    "static/media/phygital_exp.png": "/static/media/phygital_exp.8a3470b675857608a2a0.png",
+    "static/media/applications.png": "/static/media/applications.c13cd0dc933021ffa9c4.png",
+    "static/media/523.png": "/static/media/523.6eb8795bf1afd6137dcf.png",
+    "static/media/bitcoin.jpg": "/static/media/bitcoin.7f09b9e823b0d2109f86.jpg",
+    "static/media/526.png": "/static/media/526.426810ae01d92bdbf620.png",
+    "static/media/flagindia.png": "/static/media/flagindia.1d44a8f1af9837cc6160.png",
+    "static/media/logo.svg": "/static/media/logo.64901bf054c538c9ae78bac0f4d9295a.svg",
+    "static/media/flag.svg": "/static/media/flag.0d0379ce3727ca2f75b15315014e214a.svg",
+    "index.html": "/index.html",
+    "main.11f6fa1e.css.map": "/static/css/main.11f6fa1e.css.map",
+    "main.185a8eac.js.map": "/static/js/main.185a8eac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f6fa1e.css",
+    "static/js/main.185a8eac.js"
+  ]
+}

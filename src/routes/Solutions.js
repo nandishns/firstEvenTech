@@ -45,13 +45,13 @@ const Solutions = () => {
           <div className="section h-screen w-screen">
             <Slider_left
               title="Boulevard World - KSA/Riyadh
-              Experiences Delivered: <br/>
-              Interactive Projection Mapping for Mega Structure:
+            
             "
               img={brand}
               content="
-            <br/>
-            
+              <br/>
+            Experiences Delivered: <br/>
+              Interactive Projection Mapping for Mega Structure:
          
             <br/><br/>
             Boulevard World is an entertainment zone and 
@@ -79,14 +79,15 @@ educational experience for visitors.
           <div className="section h-screen w-screen">
             <Slider_right
               title="   AYA Universe - Wafi Mall, Dubai, UAE
-              Experiences Delivered: <br/>
-              Audio Lighting Programming <br/>
-Video Projectors Configuration
+          
               "
               img={sust}
               content="
-            <br/>
-         
+              <br/>
+            Experiences Delivered: <br/>
+            Audio Lighting Programming <br/>
+Video Projectors Configuration 
+<br/>  <br/>
 AYA Universe is an immersive entertainment park 
 located within Wafi City Mall in Dubai, United Arab 
 Emirates. This unique park combines art and 
@@ -123,14 +124,16 @@ something for everyone to enjoy
             <Slider_left
               title="
               Expo 2020 - Dubai, UAE <br/>
-Experiences Delivered: <br/>
-Installation of AV Interactive Sensors <br/>
-LED Screen Configurations <br/>
-Audio Video Lighting - India Pavilion <br/>
+
                "
               img={exp}
               content="
             <br/>
+            Experiences Delivered: <br/>
+Installation of AV Interactive Sensors <br/>
+LED Screen Configurations <br/>
+Audio Video Lighting - India Pavilion <br/> <br/>
+
             Expo 2020 Dubai aimed to bring together countries from 
 around the world to share ideas, showcase innovation, 
 and promote collaboration.
@@ -147,14 +150,7 @@ efforts made to minimize the carbon footprint and
 promote eco-friendly practices
 "
             />
-            {/* EXPERIENCE CENTRE- Baxter Bengaluru
-            <strong>Experiences Delivered</strong>
-            <br/> <br/>+&nbsp;&nbsp; MTT Table
-            <br/> <br/>+&nbsp;&nbsp; Projection Mapping
-            <br/> <br/>+&nbsp;&nbsp; VR Experience
-            <br/><br/>+&nbsp;&nbsp; Films
-           <br/><br/>Instilling confidence in a visitor while illustrating Baxter‘s larger perspective and evoking trust and inspiration through the experience. */}
-            {/* An impactful narrative that is engaging for users. */}
+           
           </div>
           <div className="section h-screen w-screen">
             <Slider_right

@@ -253,20 +253,29 @@ const Contacts = () => {
                   >
                     {" "}
                     <div>
-                      <i class="fa-solid fa-envelope" id="email"></i>
-                      <strong>ak@firsteventech.com</strong>
-                      <br />
-                      <i class="fa-solid fa-phone" id="phone"></i>
-                      <strong>+971 55 145 4572</strong>
-                    </div>
-                    <div className="mt-[20px]">
-                      <i class="fa-solid fa-envelope" id="email"></i>
+  <a href="mailto:ak@firsteventech.com"  style={{color:"black"}}>
+    <i class="fa-solid fa-envelope" id="email"></i>
+    <strong>ak@firsteventech.com</strong>
+  </a>
+  <br />
+  <a href="tel:+971551454572"  style={{color:"black"}}>
+    <i class="fa-solid fa-phone" id="phone"></i>
+    <strong>+971 55 145 4572</strong>
+  </a>
+</div>
 
-                      <strong>info@firsteventech.com</strong>
-                      <br />
-                      <i class="fa-solid fa-phone" id="phone"></i>
-                      <strong>+971 52 112 2046</strong>
-                    </div>
+                   <div className="mt-[20px]">
+  <a href="mailto:info@firsteventech.com" style={{color:"black"}}>
+    <i className="fa-solid fa-envelope" id="email"></i>
+    <strong>info@firsteventech.com</strong>
+  </a>
+  <br />
+  <a href="tel:+971521122046"  style={{color:"black"}}>
+    <i className="fa-solid fa-phone" id="phone"></i>
+    <strong>+971 52 112 2046</strong>
+  </a>
+</div>
+
                   </motion.h5>
                 </motion.div>
               </div>

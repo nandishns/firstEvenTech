@@ -91,10 +91,10 @@ class Navbar extends Component {
               animate="rest"
             >
               <Link
-                className=" logo text-white  text-4xl font-extrabold"
-                to="/"
+                className=" logo text-white  text-4xl font-extrabold "
+                to="/" 
               >
-                <img src={logo} />
+              { window.innerWidth <= 600 ? (<img src={logo} style={{paddingLeft:132}}  />) : (<img src={logo} />)}
               </Link>
               <ul className="navbar text-white my-2    flex w-90 flex-row  justify-between">
                 {MenuItems.map((item, index) => {

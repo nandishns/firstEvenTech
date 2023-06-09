@@ -1,3 +1,12 @@
 input__label {
   color: white !important;
 }
+
+@media only screen and (max-width: 600px) {
+.socialIcons{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+  
+}
