@@ -197,7 +197,9 @@ amongst the visitors along with providing a source of inspiration through the fu
           </div>
         </div>
         <div className="section">
-          <Form />
+          <Form /><div className="foot ">
+            <Footer />
+          </div>
         </div>
       </div>
     </div>
