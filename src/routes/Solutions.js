@@ -51,7 +51,7 @@ const Solutions = () => {
               content="
               <br/>
             Experiences Delivered: <br/>
-              Interactive Projection Mapping for Mega Structure:
+              Projection Mapping for Mega Structure:
          
             <br/><br/>
             Boulevard World is an entertainment zone and 
@@ -152,7 +152,7 @@ promote eco-friendly practices
             />
            
           </div>
-          <div className="section h-screen w-screen">
+          {/* <div className="section h-screen w-screen">
             <Slider_right
               title="EXPERIENCE CENTRE - RMZ Bengaluru"
               img={vr_1}
@@ -170,8 +170,8 @@ promote eco-friendly practices
             <br/><br/>+&nbsp;&nbsp; Interactive Displays
             <br/><br/>A Multi−Technology Experience centre for Real Estates. "
             />
-          </div>
-          <div className="section h-screen w-screen">
+          </div> */}
+          {/* <div className="section h-screen w-screen">
             <Slider_left
               title="EXPERIENCE CENTRE - RMZ Bengaluru"
               img={vr_1}
@@ -190,7 +190,7 @@ amongst the visitors along with providing a source of inspiration through the fu
 
             "
             />
-          </div>
+          </div> */}
         </div>
         <div className="section">
           <Form /><div className="foot ">
