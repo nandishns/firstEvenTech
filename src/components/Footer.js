@@ -2,7 +2,7 @@ import { React } from "react";
 import { motion } from "framer-motion";
 import { TextField } from "@mui/material";
 import styled from "styled-components";
-import logo from "../assests/logo.svg";
+import logo from "../assests/logo.png";
 import { Link } from "react-router-dom";
 import "./Footer.css";
 import { useNavigate } from "react-router-dom";
@@ -35,7 +35,7 @@ const Footer = () => {
           >
             <a href="/">
               <div>
-                <img className="hidlogo" src={logo} />
+                <img className="hidlogo" src={logo} style={{width:180}} />
               </div>
             </a>
             <ul

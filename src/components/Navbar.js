@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { AnimatePresence, motion, useAnimation } from "framer-motion";
 import { Routes, Route } from "react-router-dom";
 
-import logo from "../assests/logo.svg";
+import logo from "../assests/logo.png";
 import MenuIcon from "@mui/icons-material/Menu";
 import { duration } from "@mui/material";
 const slashMotion = {
@@ -94,7 +94,7 @@ class Navbar extends Component {
                 className=" logo text-white  text-4xl font-extrabold "
                 to="/" 
               >
-              { window.innerWidth <= 600 ? (<img src={logo} style={{paddingLeft:132}}  />) : (<img src={logo} />)}
+              { window.innerWidth <= 600 ? (<img src={logo} style={{paddingLeft:132}}  />) : (<img src={logo} style={{width:150,marginTop:10}}/>)}
               </Link>
               <ul className="navbar text-white my-2    flex w-90 flex-row  justify-between">
                 {MenuItems.map((item, index) => {

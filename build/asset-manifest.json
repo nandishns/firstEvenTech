@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.11f6fa1e.css",
-    "main.js": "/static/js/main.567411a6.js",
+    "main.js": "/static/js/main.fb63dfb2.js",
+    "static/media/homePageVideo.mp4": "/static/media/homePageVideo.a44471348b7840033ee6.mp4",
     "static/media/deep.jpg": "/static/media/deep.eaebf6bc68983f696c30.jpg",
     "static/media/ocean.jpg": "/static/media/ocean.b23c0a397cf93c36affa.jpg",
     "static/media/smoke.jpg": "/static/media/smoke.4e9729797f21d8a16d5f.jpg",
@@ -25,14 +26,14 @@
     "static/media/bitcoin.jpg": "/static/media/bitcoin.7f09b9e823b0d2109f86.jpg",
     "static/media/526.png": "/static/media/526.426810ae01d92bdbf620.png",
     "static/media/flagindia.png": "/static/media/flagindia.1d44a8f1af9837cc6160.png",
-    "static/media/logo.svg": "/static/media/logo.64901bf054c538c9ae78bac0f4d9295a.svg",
+    "static/media/logo.png": "/static/media/logo.b4c39fa40119f7c888c0.png",
     "static/media/flag.svg": "/static/media/flag.0d0379ce3727ca2f75b15315014e214a.svg",
     "index.html": "/index.html",
     "main.11f6fa1e.css.map": "/static/css/main.11f6fa1e.css.map",
-    "main.567411a6.js.map": "/static/js/main.567411a6.js.map"
+    "main.fb63dfb2.js.map": "/static/js/main.fb63dfb2.js.map"
   },
   "entrypoints": [
     "static/css/main.11f6fa1e.css",
-    "static/js/main.567411a6.js"
+    "static/js/main.fb63dfb2.js"
   ]
 }

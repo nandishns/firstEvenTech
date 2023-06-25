@@ -253,9 +253,9 @@ const Contacts = () => {
                   >
                     {" "}
                     <div>
-  <a href="mailto:ak@firsteventech.com"  style={{color:"black"}}>
+  <a href="mailto:rakeshmahendran@firsteventech.com"  style={{color:"black"}}>
     <i class="fa-solid fa-envelope" id="email"></i>
-    <strong>ak@firsteventech.com</strong>
+    <strong>rakeshmahendran@firsteventech.com</strong>
   </a>
   <br />
   <a href="tel:+971551454572"  style={{color:"black"}}>

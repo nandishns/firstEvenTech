@@ -19,6 +19,7 @@ import bg2 from "../assests/fluid.png";
 import bg3 from "../assests/1080.jpg";
 import bg4 from "../assests/smoke.jpg";
 import ReactPlayer from "react-player";
+import bgVideo from "../assests/homePageVideo.mp4";
 
 export default class Home extends Component {
   render() {
@@ -40,7 +41,8 @@ export default class Home extends Component {
               controls={true}
               width="100%"
               height="100%"
-              url="https://vimeo.com/832762249?share=copy"
+              // url="https://vimeo.com/832762249?share=copy"
+              url={bgVideo}
               loop={true}
               controls={false}
               playing={true}
