@@ -38,7 +38,7 @@ export default class Home extends Component {
         <div className="contianer">
           <div className="section">
             <ReactPlayer
-              controls={true}
+             
               width="100%"
               height="100%"
               // url="https://vimeo.com/832762249?share=copy"
@@ -64,7 +64,7 @@ export default class Home extends Component {
             />
           </div>
 
-          <div className="section h-[1000px]">
+          <div className="section h-[1000px] w-300">
             <Hero
               title="Vision + Ingenuity + Expertise "
               img={bg2}

@@ -94,7 +94,7 @@ class Navbar extends Component {
                 className=" logo text-white  text-4xl font-extrabold "
                 to="/" 
               >
-              { window.innerWidth <= 600 ? (<img src={logo} style={{paddingLeft:132}}  />) : (<img src={logo} style={{width:150,marginTop:10}}/>)}
+              { window.innerWidth <= 600 ? (<img src={logo} style={{paddingLeft:132,width:280,marginTop:8}}   />) : (<img src={logo} style={{width:150,marginTop:10}}/>)}
               </Link>
               <ul className="navbar text-white my-2    flex w-90 flex-row  justify-between">
                 {MenuItems.map((item, index) => {

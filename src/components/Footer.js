@@ -13,7 +13,7 @@ const Footer = () => {
     <>
       <div
         className="
-     h-[400px]
+     h-[300px]
      mb-[100px]
       
     

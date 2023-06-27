@@ -253,9 +253,9 @@ const Contacts = () => {
                   >
                     {" "}
                     <div>
-  <a href="mailto:rakeshmahendran@firsteventech.com"  style={{color:"black"}}>
+  <a href="mailto:info@firsteventech.com"  style={{color:"black"}}>
     <i class="fa-solid fa-envelope" id="email"></i>
-    <strong>rakeshmahendran@firsteventech.com</strong>
+    <strong>info@firsteventech.com</strong>
   </a>
   <br />
   <a href="tel:+971551454572"  style={{color:"black"}}>
@@ -265,9 +265,9 @@ const Contacts = () => {
 </div>
 
                    <div className="mt-[20px]">
-  <a href="mailto:info@firsteventech.com" style={{color:"black"}}>
+  <a href="mailto:rakeshmahendran@firsteventech.com" style={{color:"black"}}>
     <i className="fa-solid fa-envelope" id="email"></i>
-    <strong>info@firsteventech.com</strong>
+    <strong>rakeshmahendran@firsteventech.com</strong>
   </a>
   <br />
   <a href="tel:+971521122046"  style={{color:"black"}}>

@@ -79,7 +79,7 @@ const Form = () => {
                 
                 w-screen flex justify-center"
               >
-                <h1 className="  helo text-6xl text-white font-extrabold">
+                <h1 className="  helo text-4xl text-white font-extrabold">
                   {" "}
                   Let's start something awesome
                 </h1>
@@ -93,8 +93,8 @@ const Form = () => {
               >
                 <input
                   className="mt-[30px]
-                      mr-[30px]
-                      rounded-[5px]
+                      mr-[40px]
+                      rounded-[5px] pl-[20px]
                       "
                   type="name"
                   placeholder="Name"
@@ -106,7 +106,7 @@ const Form = () => {
                 <input
                   className="mt-[30px]
                       text-black
-                      rounded-[5px]
+                      rounded-[5px] pl-[20px]
  "
                   type="email"
                   placeholder="Email"
@@ -118,7 +118,7 @@ const Form = () => {
               <div>
                 <motion.button
                   className="fill
-                 w-30 ml-30 text-white z-3
+                 w-55 ml-30 text-white z-3
                  mt-[30px] 
                  "
                   whileHover={{

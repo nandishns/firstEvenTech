@@ -247,7 +247,7 @@ line {
 }
 @media only screen and (max-width: 1920px) and (min-width: 1440px) {
   .main-con {
-    width: 100vw;
+    width: 200vw !important;
 
     display: flex;
   }
@@ -259,7 +259,7 @@ line {
     justify-content: center;
   }
   .hparent {
-    height: 500px;
+    height: 300px;
   }
   .hchild {
     padding-left: 240px;
@@ -296,8 +296,8 @@ line {
 @media only screen and (max-width: 1439px) and (min-width: 1040px) {
   .hparent {
     height: 350px;
-
-    padding-left: 150px;
+font-size: 10;
+    padding-left: 10px;
   }
   .hchild {
     font-size: 30px;
@@ -528,7 +528,7 @@ line {
   }
   .bars {
     display: block;
-    left: 70%;
+    left: 60%;
     color: floralwhite;
     position: absolute;
   }
